@@ -9826,19 +9826,13 @@ div, p, a {
 #group_description {
   margin-top: 15px !important; }
 
-#group_description .container {
-  padding-left: 0; }
-
-#group_description .container {
-  padding-left: 0; }
-
-#group_tasks .container {
+#group_description .container, #group_tasks .container, #github_io .container {
   padding-left: 0; }
 
 .nav-link {
   color: black !important; }
 
-.pub-list-item > a, .powered-by > a, .btn {
+.pub-list-item > a, .powered-by > a, .btn, #group_description a, #group_tasks a {
   color: #2962ff !important; }
 
 .btn {
@@ -9857,6 +9851,6 @@ div, p, a {
 .media {
   margin-right: -15px; }
 
-#group_description .container, #group_tasks .container, .article-container {
+#group_description .container, #group_tasks .container, #github_io .container, .article-container {
   padding-right: 0;
   padding-left: 0; }
