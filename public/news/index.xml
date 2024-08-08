@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Climate and Societal Analytics</title>
+    <link>http://localhost:1313/news/</link>
+      <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+    </image>
+    
+    <item>
+      <title>WASSA @ ACL 2024 Paper accepted!</title>
+      <link>http://localhost:1313/news/24-08-07-wassa-paper/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/24-08-07-wassa-paper/</guid>
+      <description>&lt;p&gt;Our paper &lt;strong&gt;Guiding Sentiment Analysis with Hierarchical Text Clustering: Analyzing the German X/Twitter Discourse on Face Masks in the 2020 COVID-19&lt;/strong&gt; is accepted at the 14th Workshop on Computational Approaches to Subjectivity, Sentiment &amp;amp; Social Media Analysis (WASSA), which takes place at the ACL 2024 conference.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt; Social media are a critical component of the information ecosystem during public health crises. Understanding the public discourse is essential for effective communication and misinformation mitigation. Computational methods can aid these efforts through online social listening. We combined hierarchical text clus- tering and sentiment analysis to examine the face mask-wearing discourse in Germany during the COVID-19 pandemic using a dataset of 353,420 German X (formerly Twitter) posts from 2020. For sentiment analysis, we annotated a subsample of the data to train a neural network for classifying the sentiments of posts (neutral, negative, or positive). In combination with clustering, this approach uncovered sentiment patterns of different topics and their subtopics, reflecting the online public response to mask mandates in Germany. We show that our approach can be used to examine long-term narratives and sentiment dynamics and to identify specific topics that explain peaks of interest in the social media discourse.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pitch presentation accepted for the 17th EPH Conference in Lisbon, 2024</title>
+      <link>http://localhost:1313/news/2024-07-15-ephc-abstract/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2024-07-15-ephc-abstract/</guid>
+      <description>&lt;p&gt;Our abstract &amp;ldquo;High-resolution modeling and projection of heat-related mortality in Germany under climate change&amp;rdquo; got accepted for the upcoming European Public Health conference in Lisbon, taking place on November 13-15, 2024, in Lisbon, Portugal. Our paper will be presented as a pitch talk on Wednesday, November 13, 2024.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
