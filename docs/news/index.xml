@@ -5,7 +5,7 @@
     <link>http://localhost:1313/news/</link>
       <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
@@ -13,11 +13,22 @@
     </image>
     
     <item>
+      <title>New Publication in Giga Science</title>
+      <link>http://localhost:1313/news/2024-08-08-giga-paper/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2024-08-08-giga-paper/</guid>
+      <description>&lt;p&gt;Our PhD student Eva published her first-author paper &lt;strong&gt;&lt;a href=&#34;https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae051/7730001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Impact of reference design on estimating SARS-CoV-2 lineage abundances from wastewater sequencing data&lt;/a&gt;&lt;/strong&gt; in Giga Science.&lt;/p&gt;
+&lt;p&gt;The study highlights current computational challenges, focusing on the general reference design, which directly impacts abundance allocations. The authors illustrate advantages and disadvantages that may be relevant for further developments in the wastewater community and in the context of defining robust quality metrics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;
+Sequencing of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA from wastewater samples has emerged as a valuable tool for detecting the presence and relative abundances of SARS-CoV-2 variants in a community. By analyzing the viral genetic material present in wastewater, researchers and public health authorities can gain early insights into the spread of virus lineages and emerging mutations. Constructing reference datasets from known SARS-CoV-2 lineages and their mutation profiles has become state-of-the-art for assigning viral lineages and their relative abundances from wastewater sequencing data. However, selecting reference sequences or mutations directly affects the predictive power.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>WASSA @ ACL 2024 Paper accepted!</title>
-      <link>http://localhost:1313/news/24-08-07-wassa-paper/</link>
+      <link>http://localhost:1313/news/2024-08-07-wassa-paper/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/24-08-07-wassa-paper/</guid>
-      <description>&lt;p&gt;Our paper &lt;strong&gt;Guiding Sentiment Analysis with Hierarchical Text Clustering: Analyzing the German X/Twitter Discourse on Face Masks in the 2020 COVID-19&lt;/strong&gt; is accepted at the 14th Workshop on Computational Approaches to Subjectivity, Sentiment &amp;amp; Social Media Analysis (WASSA), which takes place at the ACL 2024 conference.&lt;/p&gt;
+      <guid>http://localhost:1313/news/2024-08-07-wassa-paper/</guid>
+      <description>&lt;p&gt;Our paper &lt;strong&gt;&lt;a href=&#34;https://aclanthology.org/2024.wassa-1.13/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guiding Sentiment Analysis with Hierarchical Text Clustering: Analyzing the German X/Twitter Discourse on Face Masks in the 2020 COVID-19&lt;/a&gt;&lt;/strong&gt; is accepted at the 14th Workshop on Computational Approaches to Subjectivity, Sentiment &amp;amp; Social Media Analysis (WASSA), which takes place at the ACL 2024 conference.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt; Social media are a critical component of the information ecosystem during public health crises. Understanding the public discourse is essential for effective communication and misinformation mitigation. Computational methods can aid these efforts through online social listening. We combined hierarchical text clus- tering and sentiment analysis to examine the face mask-wearing discourse in Germany during the COVID-19 pandemic using a dataset of 353,420 German X (formerly Twitter) posts from 2020. For sentiment analysis, we annotated a subsample of the data to train a neural network for classifying the sentiments of posts (neutral, negative, or positive). In combination with clustering, this approach uncovered sentiment patterns of different topics and their subtopics, reflecting the online public response to mask mandates in Germany. We show that our approach can be used to examine long-term narratives and sentiment dynamics and to identify specific topics that explain peaks of interest in the social media discourse.&lt;/p&gt;</description>
     </item>
     
