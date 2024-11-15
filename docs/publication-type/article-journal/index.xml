@@ -5,12 +5,54 @@
     <link>http://localhost:1313/publication-type/article-journal/</link>
       <atom:link href="http://localhost:1313/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
       <link>http://localhost:1313/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>High-resolution modeling and projection of heat-related mortality in Germany under climate change</title>
+      <link>http://localhost:1313/publications/journal-article/wang-2024/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/journal-article/wang-2024/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of reference design on estimating SARS-CoV-2 lineage abundances from wastewater sequencing data</title>
+      <link>http://localhost:1313/publications/journal-article/10-1093-gigasciencegiae-051/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/journal-article/10-1093-gigasciencegiae-051/</guid>
+      <description>&lt;p&gt;Sequencing of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+RNA from wastewater samples has emerged as a valuable tool for detecting the presence
+and relative abundances of SARS-CoV-2 variants in a community. By analyzing the
+viral genetic material present in wastewater, researchers and public health authorities
+can gain early insights into the spread of virus lineages and emerging mutations.
+Constructing reference datasets from known SARS-CoV-2 lineages and their mutation
+profiles has become state-of-the-art for assigning viral lineages and their relative
+abundances from wastewater sequencing data. However, selecting reference sequences
+or mutations directly affects the predictive power.Here, we show the impact of a
+mutation- and sequence-based reference reconstruction for SARS-CoV-2 abundance estimation.
+We benchmark 3 datasets: (i) synthetic “spike-in”’ mixtures; (ii) German wastewater
+samples from early 2021, mainly comprising Alpha; and (iii) samples obtained from
+wastewater at an international airport in Germany from the end of 2021, including
+first signals of Omicron. The 2 approaches differ in sublineage detection, with
+the marker mutation-based method, in particular, being challenged by the increasing
+number of mutations and lineages. However, the estimations of both approaches depend
+on selecting representative references and optimized parameter settings. By performing
+parameter escalation experiments, we demonstrate the effects of reference size and
+alternative allele frequency cutoffs for abundance estimation. We show how different
+parameter settings can lead to different results for our test datasets and illustrate
+the effects of virus lineage composition of wastewater samples and references.Our
+study highlights current computational challenges, focusing on the general reference
+design, which directly impacts abundance allocations. We illustrate advantages and
+disadvantages that may be relevant for further developments in the wastewater community
+and in the context of defining robust quality metrics.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Risk Factors for Postoperative Delirium Severity After Deep Brain Stimulation Surgery in Parkinson&#39;s Disease</title>
@@ -27,6 +69,42 @@
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/journal-article/hartner-lancet-2024/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 related disruption and resilience in immunisation activities in LMICs: a rapid review</title>
+      <link>http://localhost:1313/publications/journal-article/hartnere-076607/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/journal-article/hartnere-076607/</guid>
+      <description>&lt;p&gt;Objectives We conducted a rapid review to determine the extent that immunisation
+services in low-income and middle-income countries (LMICs) were disrupted by the
+COVID-19 pandemic and synthesised the factors that can be used to build resilience
+in future.Design Rapid review reported in accordance with the Preferred reporting
+for Systematic reviews and Meta-Analyses (PRISMA) guidelines.Data sources PubMed
+and Web of Science were searched through 6 October 2023.Eligibility criteria for
+selecting studies We included studies that focused on disruption to immunisation
+activities due to the COVID-19 pandemic in LMICs. Outcomes included routine vaccine
+coverage, supplementary immunisation activities, vaccine doses, timing of vaccination,
+supply chain changes, and factors contributing to disruption or resilience.Data
+extraction and synthesis Two independent reviewers used standardised methods to
+search, screen and code studies. Quality assessment was performed using a modified
+version of the Critical Appraisal Skills Programme for qualitative research. Findings
+were summarised qualitatively.Results Of 4978 identified studies, 85 met the eligibility
+criteria. Included studies showed declines in immunisation activities across LMICs
+related to the COVID-19 pandemic. These included reductions in achieved routine
+coverage, cancellation or postponement of campaigns and underimmunised cohorts.
+Immunisation was most disrupted in the early months of the pandemic; however, recovery
+varied by country, age-group and vaccine. Though many countries observed partial
+recovery in 2020, disruption in many countries continued into 2021. It has also
+been noted that clinician staff shortages and vaccine stock-outs caused by supply
+chain disruptions contributed to immunisation delays, but that concern over COVID-19
+transmission was a leading factor. Key resiliency factors included community outreach
+and healthcare worker support.Conclusions There is limited information on whether
+reductions in vaccination coverage or delays have persisted beyond 2021. Further
+research is needed to assess ongoing disruptions and identify missed vaccine cohorts.All
+data relevant to the study are included in the article or uploaded as supplementary
+information.&lt;/p&gt;
 </description>
     </item>
     
@@ -76,15 +154,6 @@
 &lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;: This study completed the following objectives: identified (potentially) available data sources for social listening and integrated analysis; assessed these data sources for their suitability and usefulness for integrated analysis in addition to an assessment of their risk using the RKI&amp;rsquo;s standardized data protection requirements; developed a framework and workflow to combine social listening and integrated analysis to report back actionable infodemic insights for public health communications by the RKI and stakeholders; and defined criteria for activating integrated analysis structures in the context of a specific health event or health emergency.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;: We included and classified 38{%} (16/42) of the identified and assessed data sources for social listening and integrated analysis at the RKI into 3 categories: social media and web-based listening data, RKI-specific data, and infodemic insights. Most data sources can be analyzed weekly to detect current trends and narratives and to inform a timely response by reporting insights that include a risk assessment and scalar judgments of different narratives and themes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;: This study identified, assessed, and prioritized a wide range of data sources for social listening and integrated analysis to report actionable infodemic insights, ensuring a valuable first step in establishing and operationalizing infodemic management at the RKI. This case study also serves as a roadmap for others. Ultimately, once operational, these activities will inform better and targeted public health communication at the RKI and beyond.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Impact of reference design on estimating SARS-CoV-2 lineage abundances from wastewater sequencing data</title>
-      <link>http://localhost:1313/publications/preprint/a%C3%9Fmann-2023-06-02-543047/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint/a%C3%9Fmann-2023-06-02-543047/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     

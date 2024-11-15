@@ -5,12 +5,23 @@
     <link>http://localhost:1313/news/</link>
       <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>http://localhost:1313/news/</link>
     </image>
+    
+    <item>
+      <title>New study on heat-related mortality in Germany</title>
+      <link>http://localhost:1313/news/2024-10-21-heat-paper/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2024-10-21-heat-paper/</guid>
+      <description>&lt;p&gt;Our PhD student Junyu published his work on heat-related mortality in &lt;a href=&#34;https://www.nature.com/articles/s43856-024-00643-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature Communications Medicine&lt;/a&gt;. This work complements the ongoing efforts of RKI to understand and monitor climate-driven public health effects.&lt;/p&gt;
+&lt;p&gt;From the abstract:&lt;br&gt;
+Heat has become a leading cause of preventable deaths during summer. Understanding the link between high temperatures and excess mortality is crucial for designing effective prevention and adaptation plans. Yet, data analyses are challenging due to often fragmented data archives over different agglomeration levels.&lt;/p&gt;
+&lt;p&gt;Using Germany as a case study, we develop a multi-scale machine learning model to estimate heat-related mortality with variable temporal and spatial resolution. This approach allows us to estimate heat-related mortality at different scales, such as regional heat risk during a specific heatwave, annual and nationwide heat risk, or future heat risk under climate change scenarios.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>New Publication in Giga Science</title>
